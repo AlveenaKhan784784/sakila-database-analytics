@@ -27,31 +27,20 @@ The Sakila database is a sample database provided by MySQL, typically used for p
 Sakila models a DVD rental store with information about:
 
 - Customers
-
 - Films and categories
-
 - Rentals and payments
-
 - Staff and stores
 
 #### Tables Involved:
 
 - customer
-
 - rental
-
 - payment
-
 - film
-
 - category
-
 - staff
-
 - store
-
 - city
-
 - country
 
 
