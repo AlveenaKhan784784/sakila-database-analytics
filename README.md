@@ -19,7 +19,7 @@ The Sakila database is a sample database provided by MySQL, typically used for p
 
 
 ## Database
-- Database Used: (https://dev.mysql.com/doc/sakila/en/)[Sakila Sample Database]
+- Database Used: [Sakila Sample Database](https://dev.mysql.com/doc/sakila/en/)
 
 - Type: MySQL Relational Database
 
